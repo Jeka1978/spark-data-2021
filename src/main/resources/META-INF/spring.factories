@@ -1,0 +1,4 @@
+
+
+org.springframework.context.ApplicationContextInitializer=com.epam.unsafe_sparkdata.SparkApplicationContextInitializer
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.epam.starter.StartConf
